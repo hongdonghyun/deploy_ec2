@@ -1,5 +1,7 @@
 {
   "django": {
-    "allowed_hosts": "*"
+    "allowed_hosts": [
+      "*"
+    ]
   }
 }
