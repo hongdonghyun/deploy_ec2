@@ -34,7 +34,6 @@ SECRET_KEY = CONFIG_SECRET_COMMON["django"]["secret_key"]
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-
 # Application definition
 
 INSTALLED_APPS = [
